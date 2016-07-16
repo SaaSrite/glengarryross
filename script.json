@@ -1,8 +1,8 @@
 {
     "BOT": "Hi there!\nI'm Blake and I am here to teach you how to close that deal!.\n!",
-    "Hi Blake": "Hey, I'm so glad you reached out. What the name of your prospect?",
+    "Hello": "Hey, I'm so glad you reached out. What the name of your prospect?",
     "Cloudera": "Sweet, great logo. Are you talking to someone who can make a decsion, like a director or VP?",
-    "Yes VP of Sales": "Great, why do they want to buy now?",
+    "Yes VP Sales": "Great, why do they want to buy now?",
     "NO": "Then why are you talking to me? And put that coffee down. Coffee is for closers!",
     "CEO is asking for metrics": "cool. do they have an existing solution?",
     "Yes. It sucks": "Cool, our solution does not!",
