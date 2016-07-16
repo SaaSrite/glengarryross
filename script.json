@@ -1,8 +1,14 @@
 {
-    "BOT": "Hi there!\nI’m the personal bot of Esther, a Product Marketer from San Francisco.\n![esther](https://raw.githubusercontent.com/esthercrawford/smooch-bot-example/master/img/esther.jpg)\nWant to know more about bots or learn about Esther? %[I'm here for the bot](postback:here_for_the_bot) %[Learn about Esther](postback:learn_about_esther) %[One random fact!](postback:random_fact)",
-    "HELLO": "Hey, I'm so glad you set EstherBot up! Do you want to tell Esther that you're talking to her bot? %[Tell her](postback:twitter)",
-    "TELL HER": "Let's tweet @ Esther so she knows you're setting a bot up. Here's a tweet that's ready to go: %[Tweet Esther](http://bit.ly/estherbot-tweet)",
-    "I LOVE YOU": "Awh, shucks! I love you too!",
+    "BOT": "Hi there!\nI'm Blake and I am here to teach you how to close that deal!.\n!,
+    "HELLO": "Hey, I'm so glad you reached out. I'm Blake, your sales coach. What the name of your prospect?",
+    "Cloudera": "Sweet, great logo. Are you talking to someone who can make a decsion, like a director or VP?",
+    "Yes VP of Sales": "Great, why do they want to buy now?",
+    "NO": "Then why are you talking to me? And put that coffee down. Coffee is for closers!",
+    "CEO is asking for metrics": "cool. do they have an existing solution?",
+    "Yes. It sucks": "Cool, our solution does not!",
+    "Exactly": "Ok, will they pay upfront?",
+    "Yes": "Booyaah! Why are you talking with me? Sign them up now!",
+    "Right": "Later. Remember.A-B-C. A-Always, B-Be, C-Closing. Always be closing. ALWAYS BE CLOSING",
     "CONNECT ME": "",
-    "DISCONNECT": "Roger that, EstherBot is back."
+    "DISCONNECT": "Roger that, GlenGarry is back."
 }
